@@ -47,18 +47,6 @@ review → Text of the movie review
 
 sentiment → Positive / Negative
 
-Dataset Info:
-
-Records: 50,000 reviews
-
-Balanced: 25,000 positive, 25,000 negative
-
-Columns:
-
-review → Text of the movie review
-
-sentiment → Positive / Negative
-
 📝 Project Tasks
 
 Task 1: Data Exploration & Preprocessing 
