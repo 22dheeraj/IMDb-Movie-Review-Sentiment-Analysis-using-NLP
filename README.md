@@ -28,9 +28,24 @@ Hyperparameter Tuning → Optimize models using GridSearchCV.
 
 📂 Dataset
 
-The dataset is too large to upload directly to GitHub. You can download it here:
+## 📂 Dataset
 
-🔗 Download IMDb Dataset (63 MB)
+The dataset is too large to upload directly to GitHub.  
+
+[![Download Dataset](https://img.shields.io/badge/Download-IMDb%20Dataset%20(63MB)-brightgreen?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1f6L79h-wVv4iLayTyVoH0kp05XIfaN2Y/view?usp=sharing)
+
+
+Dataset Info:
+
+Records: 50,000 reviews
+
+Balanced: 25,000 positive, 25,000 negative
+
+Columns:
+
+review → Text of the movie review
+
+sentiment → Positive / Negative
 
 Dataset Info:
 
