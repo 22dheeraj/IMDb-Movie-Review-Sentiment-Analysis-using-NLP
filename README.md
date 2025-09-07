@@ -26,15 +26,23 @@ Model Development → Train multiple classifiers (Logistic Regression, Naive Bay
 
 Hyperparameter Tuning → Optimize models using GridSearchCV.
 
-📂 Dataset Information
+📂 Dataset
 
-The IMDb dataset contains user-submitted reviews labeled with sentiment.
+The dataset is too large to upload directly to GitHub. You can download it here:
 
-Field	Description
-review	Text of the movie review
-sentiment	Positive / Negative
+🔗 Download IMDb Dataset (63 MB)
 
-📌 Dataset Size: 50,000 reviews (balanced)
+Dataset Info:
+
+Records: 50,000 reviews
+
+Balanced: 25,000 positive, 25,000 negative
+
+Columns:
+
+review → Text of the movie review
+
+sentiment → Positive / Negative
 
 📝 Project Tasks
 
