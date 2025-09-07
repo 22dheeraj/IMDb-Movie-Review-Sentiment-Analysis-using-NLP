@@ -37,7 +37,8 @@ sentiment	Positive / Negative
 📌 Dataset Size: 50,000 reviews (balanced)
 
 📝 Project Tasks
-🔹 Task 1: Data Exploration & Preprocessing (5 Marks)
+
+Task 1: Data Exploration & Preprocessing 
 
 Checked dataset shape, missing values, class balance.
 
@@ -55,7 +56,7 @@ Tokenization
 
 Lemmatization
 
-🔹 Task 2: Feature Engineering (10 Marks)
+Task 2: Feature Engineering 
 
 TF-IDF Vectorization for text-to-numeric transformation.
 
@@ -67,38 +68,7 @@ Character count
 
 Average word length
 
-📝 Project Tasks
-🔹 Task 1: Data Exploration & Preprocessing 
-
-Checked dataset shape, missing values, class balance.
-
-Explored review lengths distribution.
-
-Performed text cleaning using NLTK:
-
-Lowercasing
-
-Removing HTML tags, punctuation, and special characters
-
-Removing stopwords
-
-Tokenization
-
-Lemmatization
-
-🔹 Task 2: Feature Engineering 
-
-TF-IDF Vectorization for text-to-numeric transformation.
-
-Additional textual features:
-
-Word count
-
-Character count
-
-Average word length
-
-🔹 Task 3: Model Development
+Task 3: Model Development
 
 Built and evaluated multiple classification models:
 
@@ -139,8 +109,11 @@ Environment: Jupyter Notebook
 📊 Deliverables
 
 ✔️ Jupyter Notebook with code & analysis
+
 ✔️ Preprocessed dataset & feature representations
+
 ✔️ Trained models with evaluation results
+
 ✔️ Visualizations (confusion matrices, word clouds, plots)
 
 
